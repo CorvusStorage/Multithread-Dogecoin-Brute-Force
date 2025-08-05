@@ -21,7 +21,6 @@ function credit(){
 
 };
 
-
 console.clear();
   credit();
 
